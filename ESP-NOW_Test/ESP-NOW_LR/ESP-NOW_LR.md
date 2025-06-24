@@ -25,9 +25,13 @@
 
 <br><br>
 
+#### Transmitter Logs 
+
 ![tx logs](./tx_logs.gif)
 
 <br><br>
+
+#### Receiver Logs 
 
 ![Rx logs](./rx_logs.gif)
 
