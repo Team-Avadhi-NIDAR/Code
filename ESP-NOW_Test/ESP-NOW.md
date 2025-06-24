@@ -21,3 +21,4 @@ graph TD
 ## ESP-NOW Testing Code
 
 1. [21/06/2025 & 22/06/2025](./test_21-06-2025/21-06-25.md)
+2. [Long Range Testing](./ESP-NOW_LR/ESP-NOW_LR.md)
